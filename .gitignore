@@ -1,0 +1,8 @@
+.env
+.env.*
+!.env.example
+node_modules/
+execution*.jsonl*
+*.bak
+*.log
+LINKEDIN-DRAFT.private.md

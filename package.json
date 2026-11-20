@@ -1,0 +1,13 @@
+{
+  "name": "agentcorp-ai",
+  "version": "3.0.0",
+  "private": true,
+  "description": "Local fault-tolerant multi-model AI orchestration prototype",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test tests/security.test.js"
+  }
+}
